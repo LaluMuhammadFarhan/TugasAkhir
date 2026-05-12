@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tugas Akhir</string>
+    <string name="login_subtitle">Aplikasi Data Pasien</string>
+    <string name="login_title">Masuk</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Login</string>
+    <string name="pasien_title">Data Pasien</string>
+    <string name="tanggal_lahir">Tanggal Lahir</string>
+    <string name="jenis_kelamin">Jenis Kelamin</string>
+    <string name="alamat">Alamat</string>
+    <string name="no_telepon">No. Telepon</string>
+    <string name="no_data">Tidak ada data pasien</string>
+</resources>
